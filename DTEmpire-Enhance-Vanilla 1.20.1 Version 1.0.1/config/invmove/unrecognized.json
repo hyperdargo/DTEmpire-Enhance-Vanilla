@@ -1,0 +1,31 @@
+{
+  "allowMovement": {
+    "org.betterx.bclib.client.gui.screens.SyncFilesScreen": true,
+    "org.betterx.bclib.client.gui.screens.ProgressScreen": true,
+    "org.betterx.bclib.client.gui.screens.ConfirmRestartScreen": true,
+    "net.minecraft.class_434": true,
+    "net.minecraft.class_433": true,
+    "net.minecraft.class_5375": true,
+    "net.minecraft.class_410": true,
+    "net.minecraft.class_5522": true,
+    "io.github.thecsdev.betterstats.api.client.gui.screen.BetterStatsScreenWrapper": true,
+    "betteradvancements.common.gui.BetterAdvancementsScreen": true,
+    "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true,
+    "net.irisshaders.iris.gui.screen.ShaderPackScreen": true,
+    "traben.entity_texture_features.config.screens.ETFConfigScreenMain": true,
+    "traben.tconfig.gui.TConfigScreenList": true,
+    "xaero.common.gui.GuiWaypoints": true,
+    "xaero.common.gui.GuiMinimapMain": true,
+    "xaero.common.gui.GuiMinimapViewSettings": true,
+    "xaero.common.gui.GuiEditMode": true,
+    "xaero.common.gui.GuiChoosePreset": true,
+    "semmiedev.disc_jockey.gui.screen.DiscJockeyScreen": true,
+    "xaero.map.gui.GuiMap": true,
+    "net.minecraft.class_407": true,
+    "mezz.jei.gui.recipes.RecipesGui": true
+  },
+  "hideBackground": {
+    "net.minecraft.class_5522": true,
+    "mezz.jei.gui.recipes.RecipesGui": true
+  }
+}
